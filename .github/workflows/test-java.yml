@@ -10,7 +10,7 @@ on:
 			
 jobs:
 	build:
-		name: Tets on Windows
+		name: Test on Windows
 		runs-on: windows-latest
 		
 		steps:
